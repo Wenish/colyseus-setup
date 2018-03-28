@@ -22,3 +22,4 @@ npm start
 
 ## Links
 - [colyseus](https://github.com/gamestdio/colyseus)
+- [colyseus-docs](http://colyseus.io/docs/)
