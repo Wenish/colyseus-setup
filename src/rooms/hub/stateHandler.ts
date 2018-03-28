@@ -2,7 +2,7 @@ import { EntityMap } from 'colyseus'
 import { Player } from '../../models/player'
 
 export class StateHandler {
-  players: EntityMap<Player> = {}
+  players: EntityMap<Player>
   counter: number
 
   constructor () {
